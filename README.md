@@ -1,4 +1,4 @@
-**Welcome to my README.md file**
+# Welcome to my README.md file
 
 | Minecraft |
 |----------|
