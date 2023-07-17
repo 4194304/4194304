@@ -10,4 +10,4 @@ I am currently working on my website, which will probably end up being added ont
 | Operating System  | Processor | Graphics Card | Power Supply | Motherboard | Future Changes |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Windows 11  | i9-9900k @5GHz  | EVGA GTX 1050 Ti | A 550W PSU | Some random ASUS motherboard | GTX 1050 Ti -> RTX 4070 |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 550W PSU -> RM850 |
+| 550W PSU -> RM850 |
