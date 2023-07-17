@@ -13,5 +13,5 @@ I am currently working on my website, which will probably end up being added ont
 | Future Changes: | GTX 1050 Ti -> RTX 4070 | 550W PSU -> RM850 | - | - |
 
 ## Website
-<a>https://4194304.github.io (Normal website)</a>
+<p>https://4194304.github.io (Normal website)</p>
 https://4194304.github.io/desktop (Desktop mode)
