@@ -8,12 +8,8 @@ I am currently working on my website, which will probably end up being added ont
 
 ### Other
 | OS  |Windows 11|
-|-----|----------|
 | CPU |i9-9900K @ 5GHz|
-|-----|---------------|
 | GPU |EVGA GTX 1050 Ti (Soon to be a 4070)|
-|-----|------------------------------------|
 | PSU | A random 550W PSU (Soon to become an RM850 because of the 4070)|
-|-----|----------------------------------------------------------------|
 |Motherboard| An ASUS motherboard |
 
