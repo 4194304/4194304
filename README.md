@@ -5,3 +5,8 @@
   <p width="33%">I play Minecraft and like to experiment with mods that allow you to travel past the 32bit integer limit. I am especially fond of renderer breakdowns such as the stripelands.</p>
     <p width="33%">I play Minecraft and like to experiment with mods that allow you to travel past the 32bit integer limit. I am especially fond of renderer breakdowns such as the stripelands.</p>
 </p>
+<p align="right" width="100%">
+    <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
+</p>
