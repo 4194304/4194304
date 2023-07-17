@@ -4,3 +4,8 @@
 |----------|
 | Mainly I play Minecraft with optimization modpacks and rarely play the game in vanilla. I like to test mods that allow you to travel past the 32bit integer limit. I find rendering bugs like the stripelands to be quite fascinating. I also tend to make my computer suffer by using an RT shader + an ultra realistic texture pack most of the time when I am not testing mods. |
 
+| Website Design |
+|----------|
+| I am currently working on my website, which will probably end up being added onto forever. The Desktop layout is something that I am especially proud of since I know practically nothing about JS. Sometimes the fact that I need to use iFrames with it is annoying, because they occasionally break when I least expect it. |
+
+
