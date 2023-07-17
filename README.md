@@ -1,2 +1,2 @@
 **Welcome to my README.md file**
-<p>It doesn't let you use CSS so I guess that I will have to use images</p>
+It doesn't allow you to use CSS so this will mostly be made of images
