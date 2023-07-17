@@ -21,3 +21,5 @@ https://4194304.github.io/desktop (Desktop mode)
 <p>https://designio.graphics (Ultra realistic resource pack)</p>
 <p>https://continuum.graphics/stratum-resourcepack/ (Ultra realistic resource pack)</p>
 <p>https://www.patreon.com/posts/download-seus-3-60268558 (RT shader)</p>
+
+#### Thank you for reading this
