@@ -10,7 +10,7 @@ I am currently working on my website, which will probably end up being added ont
 | Operating System  | Processor | Graphics Card | Power Supply | Motherboard |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Windows 11  | i9-9900k @5GHz  | EVGA GTX 1050 Ti | A 650W PSU | Some random ASUS motherboard |
-| Future Changes: | GTX 1050 Ti -> RTX 3070 | - | - | - |
+| Future Changes: | - | GTX 1050 Ti -> RTX 3060 | - | - |
 
 ## Website
 <p>https://4194304.github.io (Normal website)</p>
