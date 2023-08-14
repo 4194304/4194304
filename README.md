@@ -9,8 +9,8 @@ I am currently working on my website, which will probably end up being added ont
 ### Other information that you probably don't need to know
 | Operating System  | Processor | Graphics Card | Power Supply | Motherboard |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Windows 11  | i9-9900k @5GHz  | EVGA GTX 1050 Ti | A 550W PSU | Some random ASUS motherboard |
-| Future Changes: | GTX 1050 Ti -> RTX 3070 | 550W PSU -> RM850 | - | - |
+| Windows 11  | i9-9900k @5GHz  | EVGA GTX 1050 Ti | A 650W PSU | Some random ASUS motherboard |
+| Future Changes: | GTX 1050 Ti -> RTX 3070 | - | - | - |
 
 ## Website
 <p>https://4194304.github.io (Normal website)</p>
