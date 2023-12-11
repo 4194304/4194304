@@ -1,2 +1,5 @@
-<h1>Welcome to my README file!</h1>
-<p>Here is some information about me:</p>
+<div align="center">
+	<br>
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	<br>
+</div>
