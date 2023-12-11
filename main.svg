@@ -4,7 +4,7 @@
 			<style>
 				h1
 				{
-					color:cyan;
+					color:white;
 				}
 				.main
 				{
@@ -21,17 +21,32 @@
 					flex-direction: column;
 					align-items: center;
 					justify-content: top;
-					margin: 0;
-					color: white;
+					margin: 12px;
+					color: #f0f0f0;
 					text-align: center;
 					border:2px white double;
+				}
+				.div1
+				{
+					display:flex;
+					position:fixed;
+					left:40px;
+					bottom:20px;
+					padding:12px;
+					border:1px solid white;
+					background-color:#303030;
+					flex-direction:column;
+					max-width:30%;
 				}
 			</style>
 			<div class="main">
 				<h1>Welcome to my README file!</h1>
-				<i>This was written entirely in CSS and HTML using SVG images but it's fine</i>
+				<i>Written entirely in HTML and CSS!</i>
 				<div class="div1">
 					<h2>Minecraft</h2>
+					<p>Here are some of my various projects!</p>
+					<h3>ResourceFix</h3>
+					<p>A Resource Pack that allows you to load Resource Packs from 1.13 and beyond.</p>
 				</div>
 			</div>
 		</div>
