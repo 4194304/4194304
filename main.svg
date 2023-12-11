@@ -9,6 +9,11 @@
 				.main
 				{
 					background-color:black;
+					background-size: 600% 400%;
+					font-family:
+						Cantarell;
+						'Segoe-UI';
+						Arial;
 				}
 			</style>
 			<div class="main">
