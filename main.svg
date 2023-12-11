@@ -24,6 +24,7 @@
 					margin: 0;
 					color: white;
 					text-align: center;
+					border:2px white double;
 				}
 			</style>
 			<div class="main">
