@@ -17,7 +17,8 @@
 					height: 600px;
 					background: black ;
 					background-size: 600% 800%;
-
+					margin:0;
+					display:flex;
 				}
 			</style>
 			<div class="main">
