@@ -30,6 +30,9 @@
 			<div class="main">
 				<h1>Welcome to my README file!</h1>
 				<i>This was written entirely in CSS and HTML using SVG images but it's fine</i>
+				<div class="div1">
+					<h2>Minecraft</h2>
+				</div>
 			</div>
 		</div>
 	</foreignObject>
