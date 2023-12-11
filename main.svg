@@ -72,6 +72,21 @@
 					padding:12px;
 					min-width:97%;
 				}
+				.div4
+				{
+					display:flex;
+					position:fixed;
+					right:10px;
+					bottom:250px;
+					padding-left:12px;
+					padding-right:12px;
+					border:1px solid white;
+					background-color:#303030;
+					flex-direction:column;
+					max-width:30%;
+					font-size:75%;
+					max-height:310px;
+				}
 			</style>
 			<div class="main">
 			<div class="header">
@@ -98,6 +113,12 @@
 				<div class="div3">
 					<h2>Web Development</h2>
 					<p>A few months ago I learned web development. It ended up becoming something that I love to do in my free time. Web development is interesting due to its process of trial and error and finding solutions. My most recent website redesign focused on browser backwards compatibility, specifically with IE6.</p>
+				</div>
+				<div class="div4">
+					<h2>Some Information</h2>
+					<p>Recently I've been focusing more on web development, Minecraft projects in Java, and other things, but here's some basic information.</p>
+					<p>I've been messing around with Minecraft since 2020, and it's definitely been the journey having fun with it. One other game that I play, Geometry Dash, I've been playing for over 6 years. With update 2.2, the game will change forever.</p>
+					<p>I tend to be super inactive and disorganized with certain things, due to my nature to keep things incredibly peaceful.</p>
 				</div>
 			</div>
 		</div>
