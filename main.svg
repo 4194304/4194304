@@ -24,7 +24,7 @@
 					margin: 12px;
 					color: #f0f0f0;
 					text-align: center;
-					border:2px white double;
+					border-radius:12px;
 				}
 				.div1
 				{
@@ -37,6 +37,7 @@
 					background-color:#303030;
 					flex-direction:column;
 					max-width:30%;
+					font-size:75%;
 				}
 			</style>
 			<div class="main">
@@ -47,6 +48,15 @@
 					<p>Here are some of my various projects!</p>
 					<h3>ResourceFix</h3>
 					<p>A Resource Pack that allows you to load Resource Packs from 1.13 and beyond.</p>
+					<br>
+					<h3>BedCraft</h3>
+					<p>My recent project that absolutely decimates the game.</p>
+					<br>
+					<h3>The 128MB Pack</h3>
+					<p>Run the latest version on 128MB of memory!</p>
+					<br>
+					<h3>Bed Client</h3>
+					<p>A Minecraft "client" focused on ease of use, customization, simplicity and external launcher compatibility.</p>
 				</div>
 			</div>
 		</div>
