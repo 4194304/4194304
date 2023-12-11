@@ -6,8 +6,14 @@
 				{
 					color:cyan;
 				}
+				.main
+				{
+					background-color:black;
+				}
 			</style>
-			<h1>This should be cyan colored.</h1>
+			<div class="main">
+				<h1>This should be cyan colored.</h1>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
