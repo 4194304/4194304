@@ -52,6 +52,19 @@
 					max-width:30%;
 					font-size:75%;
 				}
+				.div3
+				{
+					display:flex;
+					position:fixed;
+					right:10px;
+					bottom:20px;
+					padding:12px;
+					border:1px solid white;
+					background-color:#303030;
+					flex-direction:column;
+					max-width:30%;
+					font-size:75%;
+				}
 				.header
 				{
 					background-color:gray;
@@ -81,6 +94,10 @@
 					<p>With Windows, I know the OS pretty much inside out. Windows has lots of interesting things behind the normal view, like legacy features (basic theme, old icons in DLL files, etc.), utilities and more.</p>
 					<p>A few months ago I switched to Linux, due to Windows having random driver issues, slowdown, bugs and general stability issues. All of my applications worked perfectly and everything worked perfectly on Linux Mint. After that I switched to Arch, which greatly improved boot times (takes less than 10 seconds to boot!), and worked with me a lot better. So far with Arch I've had no issues whatsoever and I'm extremely happy.</p>
 					<p>Older operating systems also interest me. I like Windows 3.1, 2000, Vista and Windows 8.1. I also like old computers like the C64, NES and PC Engine (also known as the Turbografx-16), but nowadays I hate consoles due to me finding them to be absolutely useless.</p>
+				</div>
+				<div class="div3">
+					<h2>Web Development</h2>
+					<p>A few months ago I learned web development. It ended up becoming something that I love to do in my free time. Web development is interesting due to its process of trial and error and finding solutions. My most recent website redesign focused on browser backwards compatibility, specifically with IE6.</p>
 				</div>
 			</div>
 		</div>
