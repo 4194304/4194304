@@ -57,7 +57,7 @@
 					background-color:gray;
 					border-bottom:2px solid #aaaaaa;
 					padding:12px;
-					min-width:100%;
+					min-width:97%;
 				}
 			</style>
 			<div class="main">
