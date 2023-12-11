@@ -39,6 +39,19 @@
 					max-width:30%;
 					font-size:75%;
 				}
+				.div2
+				{
+					display:flex;
+					position:fixed;
+					left:320px;
+					bottom:20px;
+					padding:12px;
+					border:1px solid white;
+					background-color:#303030;
+					flex-direction:column;
+					max-width:30%;
+					font-size:75%;
+				}
 			</style>
 			<div class="main">
 				<h1>Welcome to my README file!</h1>
@@ -48,6 +61,17 @@
 					<p>Here are some of my various projects!</p>
 					<h3>ResourceFix</h3>
 					<p>A Resource Pack that allows you to load Resource Packs from 1.13 and beyond.</p>
+					<h3>The 128MB Pack</h3>
+					<p>Run the latest version on 128MB of memory!</p>
+					<h3>Bed Client</h3>
+					<p>A modpack focused on ease of use, customization, simplicity and external launcher compatibility.</p>
+				</div>
+				<div class="div2">
+					<h2>Computing</h2>
+					<p>I've always been interested in operating systems.</p>
+					<p>With Windows, I know the OS pretty much inside out. Windows has lots of interesting things behind the normal view, like legacy features (basic theme, old icons in DLL files, etc.), utilities and more.</p>
+					<p>A few months ago I switched to Linux, due to Windows having random driver issues, slowdown, bugs and general stability issues. All of my applications worked perfectly and everything worked perfectly on Linux Mint. After that I switched to Arch, which greatly improved boot times (takes less than 10 seconds to boot!), and worked with me a lot better. So far with Arch I've had no issues whatsoever and I'm extremely happy.</p>
+					<p>Older operating systems also interest me. I like Windows 3.1, 2000, Vista and Windows 8.1. I also like old computers like the C64, NES and PC Engine (also known as the Turbografx-16), but nowadays I hate consoles due to me finding them to be absolutely useless.</p>
 				</div>
 			</div>
 		</div>
