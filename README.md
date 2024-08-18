@@ -10,6 +10,6 @@ I know HTML and CSS, and can craft next to anything I can possibly imagine with 
 ## Other projects
 I have a few other projects that you can take a look at, which most are now long since abandoned.
 
-My website (which I plan to get 4194304.com soon), is quite basic, but serves its purpose. A silly, but fun fact about it is that it was made on a Windows 2000 VM with IE6, just because I wanted to make it quite compatible with older browsers (which I succeeded I guess).
+My current website as of 8/17/24 (which for my project I plan to get fluorine.sh soon), is quite basic, but serves its purpose. A silly, but fun fact about it is that it was made on a Windows 2000 VM with IE6, just because I wanted to make it quite compatible with older browsers (which I succeeded I guess).
 
 Other than that, there isn't exactly much to see here.
