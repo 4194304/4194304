@@ -11,4 +11,4 @@ The project is kinda on hiatus but it'll come back one day.
 I know HTML, CSS, and I am learning Julia.
 
 ## Other things
-I am currently making the xlib-gtk theme, which is a monochrome GTK theme that tries to fit in with the look of Xlib applications. The theme is part of a current project I have to make a complete, 1980's style, monochrome TWM desktop with modern applications.
+I am currently making the xlib-gtk theme, which is a monochrome GTK theme that tries to fit in with the look of Xlib applications. The theme is part of a current project I have to make a complete, 1980's style desktop. The goal is to make a perfect 1980's style desktop in the modern day with modern applications.
