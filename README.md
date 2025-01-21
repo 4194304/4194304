@@ -2,14 +2,13 @@
 Here on this page you likely won't find anything exciting, so look around at some of the repositories I have.
 
 ## Fluorine
-[Fluorine](https://github.com/4194304/fluorine) is a project which tries to be lightweight, user friendly, most importantly, with the core focus of hiDPI friendly. Within the Fluorine project, there are also some self made scripts to both make the GUI applications work, and also to help ordinary people (including you!), scale seamlessly on X11 environments.
+[Fluorine](https://github.com/4194304/fluorine) is currently a hiDPI focused desktop that tries to be simple, lightweight, and user friendly.
+
+As of 1/20/24, I have plans to rewrite it in Julia first with a friend, with Wayland support shortly after.
+The project is kinda on hiatus but it'll come back one day.
 
 ## Programming
-I know HTML and CSS, and can craft next to anything I can possibly imagine with it. Making resource packs for Minecraft is quite a bit of fun, and and I have done some interesting things with it. Examples are things such as ResourceFix (allows you to load 1.13+ resource packs on 1.12.2), my Ultimate Immersion self made pack (in extremely slow progress with lots of burnout), XRay+ (extremely lightweight xray pack), and AntiXray (blocks any xray pack from loading).
+I know HTML, CSS, and I am learning Julia.
 
-## Other projects
-I have a few other projects that you can take a look at, which most are now long since abandoned.
-
-My current website as of 8/17/24 (which for my project I plan to get fluorine.sh soon), is quite basic, but serves its purpose. A silly, but fun fact about it is that it was made on a Windows 2000 VM with IE6, just because I wanted to make it quite compatible with older browsers (which I succeeded I guess).
-
-Other than that, there isn't exactly much to see here.
+## Other things
+I am currently making the xlib-gtk theme, which is a monochrome GTK theme that tries to fit in with the look of Xlib applications. The theme is part of a current project I have to make a complete, 1980's style, monochrome TWM desktop with modern applications.
