@@ -4,11 +4,7 @@ Here on this page you likely won't find anything exciting, so look around at som
 ## Fluorine
 [Fluorine](https://github.com/4194304/fluorine) is currently a hiDPI focused desktop that tries to be simple, lightweight, and user friendly.
 
-As of 1/20/24, I have plans to rewrite it in Julia first with a friend, with Wayland support shortly after.
 The project is kinda on hiatus but it'll come back one day.
 
-## Programming
-I know HTML, CSS, and I am learning Julia.
-
 ## Other things
-I am currently making the xlib-gtk theme, which is a monochrome GTK theme that tries to fit in with the look of Xlib applications. The theme is part of a current project I have to make a complete, 1980's style desktop. The goal is to make a perfect 1980's style desktop in the modern day with modern applications.
+I currently use the [Katana Desktop](https://github.com/fluxer/katana) on Linux.
