@@ -7,4 +7,4 @@ Here on this page you likely won't find anything exciting, so look around at som
 The project is kinda on hiatus but it'll come back one day.
 
 ## Other things
-I currently use KDE6 with [VistaThemePlasma](https://gitgud.io/catpswin56/VistaThemePlasma) on Linux.
+I am currently working on a font ([lowspace](https://github.com/4194304/lowspace)) which is meant to make extra low DPI displays more usable.
