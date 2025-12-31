@@ -1,10 +1,6 @@
-# Welcome to my profile!
-Here on this page you likely won't find anything exciting, so look around at some of the repositories I have.
+# Welcome to my profile
+I have quite a few repositories, so take a look around.
 
-## Fluorine
-[Fluorine](https://github.com/4194304/fluorine) is currently a hiDPI focused desktop that tries to be simple, lightweight, and user friendly.
+Some projects I have made are [Athena GTK](https://github.com/4194304/athena-gtk), [lowspace](https://github.com/4194304/athena-gtk), and [color depth shaders](https://github.com/4194304/color-depth-shaders).
 
-The project is kinda on hiatus but it'll come back one day.
-
-## Other things
-I am currently working on a font ([lowspace](https://github.com/4194304/lowspace)) which is meant to make extra low DPI displays more usable.
+I frequently forget about my README so some things on here might be long since forgotten about
