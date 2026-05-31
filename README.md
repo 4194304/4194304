@@ -1,3 +1,3 @@
 # This my profile
 
-I don't have much here at all, but if you feel so inclined look at the repositories I have
+I have nothing interesting but my chaotic projects from the past, if you feel so inclined look around but you will find nothing useful
