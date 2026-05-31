@@ -1,6 +1,3 @@
-# Welcome to my profile
-I have quite a few repositories, so take a look around.
+# This my profile
 
-Some projects I have made are [Athena GTK](https://github.com/4194304/athena-gtk), [lowspace](https://github.com/4194304/athena-gtk), and [color depth shaders](https://github.com/4194304/color-depth-shaders).
-
-I frequently forget about my README so some things on here might be long since forgotten about
+I don't have much here at all but if you feel so inclined you can look at the repositories I have
